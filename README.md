@@ -6,6 +6,9 @@ Boilerplate example using IPython Notebook to solve simplest (sex-field only) Ti
 This is the Titanic challenge:
 http://www.kaggle.com/c/titanic-gettingStarted/
 
+For a longer and far more in-depth analysis using Pandas see: 
+http://nbviewer.ipython.org/urls/raw.github.com/agconti/kaggle-titanic/master/Titanic.ipynb
+
 You *must download* the data from Kaggle to run this Notebook.
 
 This Notebook replicates this example but using Python and an IPython Notebook:
